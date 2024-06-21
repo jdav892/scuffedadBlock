@@ -27,5 +27,5 @@ const removeAds = () => {
 removeAds();
 
 setInterval(() =>{
-    removeAds;
+    removeAds();
 }, 100)
