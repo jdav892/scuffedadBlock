@@ -13,7 +13,7 @@ chrome.webNavigation.onCommitted.addListener((tab) => {
                 .replace("www.", "")
             
                 //Remove path and queries, only want base domain
-            const domain = parsedUrl.slice(0, prasedUrl.indexOf('/') == - 1 ? parsedUrl.length : parsedUrl.indexOf('/'))
+            const domain = parsedUrl.slice(0, parsedUrl.indexOf('/') == - 1 ? parsedUrl.length : parsedUrl.indexOf('/'))
             .slice(0, parsedUrl.indexOf('?') == - 1 ? parsedUrl.length : parsedUrl.indexOf('?'));
 
             try {
