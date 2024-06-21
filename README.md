@@ -1,1 +1,1 @@
-Basic chrome extension ad block, can be changed around to reference a specific element in whatever page you care to use it for, however this was for learning you should probably just use regulard adblock.
+Basic chrome extension ad block, can be changed around to reference a specific element in whatever page you care to use it for, however this was for learning you should probably just use regular adblock.
